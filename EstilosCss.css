@@ -35,12 +35,7 @@ width:50px;
 background-color:floralwhite;
 border-radius:10%;
  }*/
-     HTML CSS 
-
-    Result
-    Skip Results Iframe
-
-EDIT ON
+     
 
 /*Centers "button" in the middle of the page*/
 body {
@@ -52,14 +47,14 @@ body {
   justify-content: center;
 }
 
-.boton {
+.button {
   background-color: #199319;
   color: white;
   padding: 15px 25px;
   text-decoration: none;
 }
 
-.boton:hover {
+.button:hover {
   background-color: #223094;
 }
 
