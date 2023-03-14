@@ -50,7 +50,7 @@ border-radius:10%;
   color: white;
   padding: 15px 25px;
   text-decoration: none;
-  text-align:center;  
+  display: inline-block;
 }
 
 .boton:hover {
