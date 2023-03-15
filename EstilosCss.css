@@ -37,8 +37,8 @@
   text-decoration: none;
   display: inline-block;
   display: block;  
-  position: fixed;
-  align-items: center;
+  /* position: fixed; 
+  align-items: center;*/
   justify-content: center;
   margin-right: auto;
   margin-left: auto;  
