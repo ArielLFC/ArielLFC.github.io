@@ -36,9 +36,12 @@
   padding: 15px 25px;
   text-decoration: none;
   display: inline-block;
+  display: block;  
   position: fixed;
   align-items: center;
   justify-content: center;
+  margin-right: auto;
+  margin-left: auto;  
 }
 
 .boton:hover {
