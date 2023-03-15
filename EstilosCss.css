@@ -29,7 +29,7 @@
   strong {
     font-weight: bold;
   }
-     
+  /*   
 .boton {
     background-color:  #BD682E;
   color: white;
@@ -41,11 +41,11 @@
   align-items: center;
   justify-content: center;
   width: 250px;
-  /*margin-right: auto;
-  margin-left: auto;  */
+  margin-right: auto;
+  margin-left: auto;  
 }
 
 .boton:hover {
   background-color:#C0B99D;
-}
+}*/
 
